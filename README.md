@@ -87,13 +87,6 @@ Enquanto existir o botão de próxima página, o script continua navegando e col
 Prevenção de duplicados
 Os resultados são comparados com um conjunto (set) em memória antes de serem gravados, evitando repetição durante a mesma execução do programa.
 
-# Pontos positivos do projeto
-
-  Mostra conhecimento prático de Selenium em ambiente real.
-  
-  Trabalha com site dinâmico em vez de HTML estático simples.
-  
-  Usa coleta paginada, o que aumenta o valor do projeto para portfólio.
   
   Salva os dados em arquivo local de forma simples e objetiva.
   
