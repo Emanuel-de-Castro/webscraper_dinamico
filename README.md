@@ -15,7 +15,7 @@ O fluxo geral faz uma busca pelo nome digitado pelo usuário, abre o site do Enj
     
     Selenium
     
-    ChromeDriver compatível com a versão do navegador..
+    ChromeDriver compatível com a versão do navegador.
 
 
 # Funcionalidades
