@@ -38,11 +38,17 @@ Percorre múltiplas páginas de resultados até não encontrar mais botão de pr
 # Estrutura 
 
   projeto/
+  
   ├─ scraper.py
+  
   ├─ requirements.txt
+  
   ├─ .gitignore
+  
   ├─ README.md
+  
   └─ enjoei.txt
+  
   O arquivo enjoei.txt é gerado ou atualizado durante a execução e armazena os itens encontrados para cada busca realizada.
 
 
