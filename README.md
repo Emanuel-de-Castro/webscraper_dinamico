@@ -62,7 +62,9 @@ Antes de executar, o ambiente precisa ter Python instalado e a biblioteca Seleni
 
 --- ITEM: NOTEBOOK ---
 Notebook Dell Inspiron - R$ 2.300 - https://www.enjoei.com.br/p/...
+
 Notebook Lenovo IdeaPad - R$ 1.950 - https://www.enjoei.com.br/p/...
+
 O formato acima representa o padrão salvo pelo script: nome do produto, preço e link do anúncio em uma única linha por item.
 
 # Como o código funciona
